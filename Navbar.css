@@ -1,0 +1,355 @@
+body{
+    background-color: black;
+  
+    
+}
+
+#d11{
+    color: white;
+}
+
+#all{
+    height: 40px;
+    width: 80%;
+    border: 1px solid red;
+    /* margin-left: 160px; */
+    float: right;
+    margin-right: 10px;
+    overflow: scroll;
+    overflow-y: hidden;
+
+  
+
+}
+#videos{
+  height: 600px;
+  width: 80%;
+  
+  border: 1px solid red;
+  float: right;
+  margin-right: 10px;
+  margin-top: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: aliceblue;
+}
+video{
+    height: 150px;
+    width: 170px;
+}
+.k{
+    height: 150px;
+    width: 170px;
+    border: 1px solid red;
+    margin-left: 25px;
+    margin-top: 5px;
+
+    
+}
+
+#d{
+    /* border: 2px solid yellow; */
+    overflow-y: scroll;
+}
+button{
+    border-radius: 4px;
+    margin-top: 7px;
+    margin-left: 5px;
+    cursor: pointer;
+    font-size: xx-small;
+    
+
+}
+
+#div1{
+    height: 35px;
+    width: 99%;
+    border: 1px solid black;
+    margin: 3px;
+    color: white;
+    background-color: rgb(22, 22, 22);
+
+    
+    
+    
+    
+}
+
+input{
+    background-color: rgb(22, 22, 22);
+    border-top-left-radius:10px ;
+    border-bottom-left-radius: 10px;
+    border: 1px solid black;
+    margin-left: 160px;
+    width: 30%;
+    height: 16px;
+    margin-top: 5px;
+}
+
+input::placeholder{
+    padding-left: 10px;
+}
+
+#i1{
+    margin-left: 10px;
+}
+
+#i2{
+    margin-left: 12px;
+}
+
+#i3{
+    margin-left: 12px;
+}
+
+#i4{
+    font-size: smaller;
+    /* margin-left: -18px; */
+    height: 18px;
+    width: 20px;
+    /* background-color: aqua; */
+
+    
+}
+
+#i5{
+    font-size: smaller;
+    margin-left: 50px;
+    
+}
+
+#i6{
+    font-size: smaller;
+    margin-left: 120px;
+}
+#i7{
+    font-size: smaller;
+    margin-left: 20px;
+}
+
+/* div2 starts from here!... */
+
+#div2{
+    height: 800px;
+    width: 18%;
+    border: 1px solid red;
+    /* margin-top: 10px; */
+}
+
+.d1{
+    height: 20px;
+    width: 94%;
+    border: 1px solid red;
+    margin-left: 3px;
+    border-radius: 5px;
+    font-size: xx-small;
+    display: flex;
+    
+}
+
+.d1 i{
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+.d1 p{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+.d1:hover{
+    background-color: rgb(22, 22, 22);
+    cursor: pointer;
+}
+
+hr{
+    color: red;
+}
+
+/* div2 starts from here... */
+
+.d2{
+    height: 20px;
+    width: 94%;
+    border: 1px solid red;
+    margin-left: 3px;
+    border-radius: 5px;
+    font-size: xx-small;
+    display: flex;
+    
+}
+
+.d2 i{
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+.d2 p{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+.d2:hover{
+    background-color: rgb(22, 22, 22);
+    cursor: pointer;
+}
+
+hr{
+    color: red;
+}
+
+/* div3 starts from here!... */
+
+.div3{
+    height: 20px;
+    width: 94%;
+    border: 1px solid red;
+    margin-left: 3px;
+    border-radius: 5px;
+    font-size: xx-small;
+    display: flex;
+    
+}
+
+.div3 h4{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+.div3:hover{
+    background-color: rgb(22, 22, 22);
+    cursor: pointer;
+}
+
+
+/* div4 starts from here!... */
+
+
+.div4{
+    height: 20px;
+    width: 94%;
+    border: 1px solid red;
+    margin-left: 3px;
+    border-radius: 5px;
+    font-size: xx-small;
+    display: flex;
+    
+}
+
+.div4 p{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+.div4 h4{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+.div4:hover{
+    background-color: rgb(22, 22, 22);
+    cursor: pointer;
+}
+
+.div4 i{
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+/* div 5 starts fromm here!... */
+
+.d5{
+    height: 20px;
+    width: 94%;
+    border: 1px solid red;
+    margin-left: 3px;
+    border-radius: 5px;
+    font-size: xx-small;
+    display: flex;
+    /* overflow: hidden; */
+    
+}
+
+
+
+.d5 p{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+.d5 h4{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+.d5:hover{
+    background-color: rgb(22, 22, 22);
+    cursor: pointer;
+}
+
+.d5 i{
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+
+#yt_mus{
+    margin-left: -1px;
+}
+#youtube_stdio{
+    height: 16px;
+    width: 16px;
+    margin-left: 7px;
+    margin-top: 1px;
+}
+
+#yt_music{
+    height: 20px;
+    width: 40px;
+    margin-left: -5px;
+    
+    
+}
+
+#yt_kids{
+    height: 12px;
+    width: 14px;
+    margin-top: 3px;
+    margin-left: 8px;
+
+    
+    
+}
+
+/* div 6 starts from here!... */
+
+.d6{
+    height: 20px;
+    width: 94%;
+    border: 1px solid red;
+    margin-left: 3px;
+    border-radius: 5px;
+    font-size: xx-small;
+    display: flex;
+    overflow: hidden;
+    
+}
+
+
+
+.d6 p{
+    margin-left: 12px;
+    margin-top: 2px;
+}
+
+
+
+.d5:hover{
+    background-color: rgb(22, 22, 22);
+    cursor: pointer;
+}
+
+.d6 i{
+    margin-left: 10px;
+    margin-top: 5px;
+}
